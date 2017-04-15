@@ -1,6 +1,4 @@
-
-
-Demo Overview
+##Demo Overview
 
 
 This Weather Demo incorporates physical sensor data with The Weather
